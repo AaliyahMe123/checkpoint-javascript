@@ -11,10 +11,17 @@ var people = [
 // called `peoplesAges`.
 // Type your solution immediately below this line:
 
-
-
+[{"name: Jane, age: 32",} {"name: Jessica, age: 34"} {"name: Jasmine, age:39"}]
 
 // #2: Use the `filter` array method to create a new, filtered array containing only
 // persons from the `people` array who are older than 35. Assign the returned array
 // to a variable called `peopleOlderThan35`.
 // Type your solution immediately below this line:
+
+var Ages = [32, 34, 39];
+function peopleOlderThan35 {
+  return age >= 35;
+}
+function myFunction() {
+    document.getElementById("Ages").innerHTML = ages.filter(peopleOlderThan35);
+}

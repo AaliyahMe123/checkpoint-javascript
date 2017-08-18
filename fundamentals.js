@@ -2,7 +2,7 @@
 
 // #1: Create an array of strings called `colors` that contains three colors.
 // Type your solution immediately below this line:
-
+var colors = [red, blue, green];
 
 
 // #2: Access the last item in the array and assign to a variable called `last`.
@@ -13,11 +13,11 @@
 // #3: Create an empty array called `favoriteColors`.
 // Type your solution immediately below this line:
 
-
+var favoriteColors = []
 
 // #4: Create a `for` loop that adds each string in `colors` to `favoriteColors`.
 // Type your solution immediately below this line:
-
+for()
 
 
 // #5: Create an object literal called `instructor` that contains three key-value pairs.
